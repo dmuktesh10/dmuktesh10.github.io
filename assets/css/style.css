@@ -1727,3 +1727,7 @@ section {
   font-size: 13px;
   color: #fff;
 }
+
+.founder-row{
+  justify-content: space-around;
+}
